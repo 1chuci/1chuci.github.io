@@ -1,0 +1,1 @@
+$('#menu-home').on('click',function(){window.location.href = window.location.origin;});
