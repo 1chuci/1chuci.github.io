@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>markdown语法</title>
+      <link href="/2022/11/19/markdown-1/"/>
+      <url>/2022/11/19/markdown-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于Ubuntu的尝试使用</title>
+      <link href="/2022/11/18/ubuntu-1/"/>
+      <url>/2022/11/18/ubuntu-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一次弄Ubuntu操作系统"><a href="#第一次弄Ubuntu操作系统" class="headerlink" title="第一次弄Ubuntu操作系统"></a>第一次弄Ubuntu操作系统</h1><p>是我自己的一次尝试，毕竟之前用的全是Windows</p><p>从Window7 到 Windows11</p><p>这个下载语言包是真的很慢，不知道是为什么</p><p><img src="https://s2.loli.net/2022/11/18/MkotgJw9aDf2mpr.png" alt="Ubunto"></p><p>这是汉化好的样子</p><p><img src="https://s2.loli.net/2022/11/19/FsiHLQJSqjwNlha.png" alt="Ubunto"></p><p><img src="https://s2.loli.net/2022/11/19/qvM3CZLNGAyrYR4.png" alt="安装Chrome"></p><p><a href="https://blog.csdn.net/qq_51011672/article/details/125086010">dpkg: 依赖关系问题使得 xxxxxxx 的配置工作不能继续：</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ubuntu </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的python学习记录（二）</title>
+      <link href="/2022/10/26/python-2/"/>
+      <url>/2022/10/26/python-2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="暂放"><a href="#暂放" class="headerlink" title="暂放"></a>暂放</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的python学习记录（一）</title>
+      <link href="/2022/10/25/python-1/"/>
+      <url>/2022/10/25/python-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这是我的第一个博客，也是为了记录自己的学习过程，在高中学习的是VB程序语言，在今年（也就是2022年）的暑假，我决定开始学习Pyhon。<br>这算是对自己学习的一个记录吧！</p><h1 id="首先是python的安装"><a href="#首先是python的安装" class="headerlink" title="首先是python的安装"></a>首先是python的安装</h1><h2 id="搭建Python开发环境"><a href="#搭建Python开发环境" class="headerlink" title="搭建Python开发环境"></a>搭建Python开发环境</h2><h3 id="安装Python解释器"><a href="#安装Python解释器" class="headerlink" title="安装Python解释器"></a>安装Python解释器</h3><p>这里大家可以在Python的官网进行下载，我下载的是Python3.8版本 <a href="https://www.python.org/downloads/">python</a></p><p>安装前需要注意操作系统是32位还是64位，网上也是有很多安装<a href="https://blog.csdn.net/embelfe_segge/article/details/125056779">教程</a></p><p><img src="https://s2.loli.net/2022/11/18/zVgHFU5OB3SjhCW.png" alt="图1：这是安装好的样子"></p><h2 id="第三方开发环境PyCharm的下载与安装"><a href="#第三方开发环境PyCharm的下载与安装" class="headerlink" title="第三方开发环境PyCharm的下载与安装"></a>第三方开发环境PyCharm的下载与安装</h2><p>使用交互式开发环境以及自带的IDLE开发环境编写代码，不是长久之计，通常会使用一个第三方的开发环境PyCharm</p><p>pycharm的下载，根据操作系统选择适合自己的 <a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows">pycharm</a></p><p>安装<a href="https://blog.csdn.net/m0_73479194/article/details/126584118">教程</a>这里也有</p><p><img src="https://s2.loli.net/2022/11/18/CRU4WzdP9GVJjLZ.png" alt="图2：这是安装好的样子"></p><h3 id="Pycharam插件"><a href="#Pycharam插件" class="headerlink" title="Pycharam插件"></a>Pycharam插件</h3><p>开始的pycharm是英语的，如果想要汉化就要用到插件</p><p>如何安装插件我用图片示例</p><p><img src="https://s2.loli.net/2022/11/18/ubSEf3mzP4W6j5Y.png" alt="图3：汉化插件安装"></p><p><img src="https://s2.loli.net/2022/11/18/kgrA6lWPM25RI9m.png" alt="图3：汉化插件安装"></p><p><img src="https://s2.loli.net/2022/11/18/9cWB4G8xQRlqbuN.png" alt="图3：汉化插件安装"></p><p>现在可以看到pycharm就已经汉化好了</p><h3 id="设置脚本开头信息"><a href="#设置脚本开头信息" class="headerlink" title="设置脚本开头信息"></a>设置脚本开头信息</h3><p>例如：</p><p><img src="https://s2.loli.net/2022/11/18/imkQo2wf1JB6Xle.png" alt="图4：设置脚本开头信息"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="comment">#楚辞</span></span><br><span class="line">$ <span class="comment">#开发时间：$&#123;DATE&#125; $&#123;TIME&#125;   //比如2022/10/25 00:00</span></span><br></pre></td></tr></table></figure><p>设置完以上那么就可以开始写代码了</p><h1 id="初识Python"><a href="#初识Python" class="headerlink" title="初识Python"></a>初识Python</h1><h2 id="输出函数print"><a href="#输出函数print" class="headerlink" title="输出函数print"></a>输出函数print</h2><p>这个函数用来打印输出 , 效果如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">print</span>(<span class="string">&#x27;hello python&#x27;</span>)   //打印</span><br><span class="line">$ 输出结果： hello python</span><br></pre></td></tr></table></figure><p>输出字符串需要括号里加引号  (‘一二三四五’)</p><p>如果是数字可以不用</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">print</span>(520)</span><br><span class="line">$ 输出结果： 520</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/10/20/hello-world/"/>
+      <url>/2022/10/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
