@@ -83,31 +83,6 @@
     
     
     <entry>
-      <title>关于Ubuntu的尝试使用</title>
-      <link href="/2022/11/18/ubuntu-1/"/>
-      <url>/2022/11/18/ubuntu-1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="第一次弄Ubuntu操作系统"><a href="#第一次弄Ubuntu操作系统" class="headerlink" title="第一次弄Ubuntu操作系统"></a>第一次弄Ubuntu操作系统</h1><p>是我自己的一次尝试，毕竟之前用的全是Windows</p><p>从Window7 到 Windows11</p><p>这个下载语言包是真的很慢，不知道是为什么</p><p><img src="https://s2.loli.net/2022/11/18/MkotgJw9aDf2mpr.png" alt="Ubunto"></p><p>这是汉化好的样子</p><p><img src="https://s2.loli.net/2022/11/19/FsiHLQJSqjwNlha.png" alt="Ubunto"></p><p><img src="https://s2.loli.net/2022/11/19/qvM3CZLNGAyrYR4.png" alt="安装Chrome"></p><p><a href="https://blog.csdn.net/qq_51011672/article/details/125086010">dpkg: 依赖关系问题使得 xxxxxxx 的配置工作不能继续：</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Ubuntu </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Ubuntu </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>我的python学习记录（二）</title>
       <link href="/2022/10/26/python-2/"/>
       <url>/2022/10/26/python-2/</url>
